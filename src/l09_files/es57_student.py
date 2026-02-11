@@ -57,7 +57,6 @@ def stampa_conteggio(dizionario):
         print(f"{parola}: {numero}")
 
 def main():
-
     testo = "Phython è un linguaggio di programmazione. Phython è semplice e potente."
     nome_file = "esercizio57.txt"
 
@@ -72,6 +71,6 @@ def main():
     dizionario_conteggio = conta_parole(nome_file)
     stampa_conteggio(dizionario_conteggio)
     conta_parole(nome_file)
-    
+
 if __name__ == "__main__":
     main()
