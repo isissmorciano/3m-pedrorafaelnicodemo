@@ -1,0 +1,22 @@
+[
+  {"nome": "Luca", "peso": 72}, {"nome": "Anna", "peso": 65}, {"nome": "Marta", "peso": 58}, {"nome": "Giorgio", "peso": 83}, {"nome": "Sara", "peso": 69},
+  {"nome": "Marco", "peso": 77}, {"nome": "Elena", "peso": 61}, {"nome": "Davide", "peso": 88}, {"nome": "Francesca", "peso": 54}, {"nome": "Stefano", "peso": 79},
+  {"nome": "Chiara", "peso": 72}, {"nome": "Matteo", "peso": 65}, {"nome": "Alessandro", "peso": 90}, {"nome": "Giulia", "peso": 55}, {"nome": "Pietro", "peso": 83},
+  {"nome": "Luca", "peso": 68}, {"nome": "Sara", "peso": 65}, {"nome": "Marta", "peso": 72}, {"nome": "Marco", "peso": 88}, {"nome": "Elena", "peso": 54},
+  {"nome": "Giorgio", "peso": 79}, {"nome": "Anna", "peso": 61}, {"nome": "Davide", "peso": 77}, {"nome": "Francesca", "peso": 83}, {"nome": "Stefano", "peso": 69},
+  {"nome": "Luca", "peso": 92}, {"nome": "Chiara", "peso": 58}, {"nome": "Matteo", "peso": 65}, {"nome": "Giulia", "peso": 77}, {"nome": "Pietro", "peso": 81},
+  {"nome": "Alessandro", "peso": 72}, {"nome": "Sara", "peso": 54}, {"nome": "Marta", "peso": 65}, {"nome": "Marco", "peso": 83}, {"nome": "Elena", "peso": 90},
+  {"nome": "Giorgio", "peso": 61}, {"nome": "Anna", "peso": 79}, {"nome": "Davide", "peso": 68}, {"nome": "Francesca", "peso": 72}, {"nome": "Stefano", "peso": 55},
+  {"nome": "Luca", "peso": 83}, {"nome": "Chiara", "peso": 65}, {"nome": "Matteo", "peso": 77}, {"nome": "Giulia", "peso": 58}, {"nome": "Pietro", "peso": 69},
+  {"nome": "Alessandro", "peso": 88}, {"nome": "Sara", "peso": 61}, {"nome": "Marta", "peso": 54}, {"nome": "Marco", "peso": 72}, {"nome": "Elena", "peso": 79},
+  {"nome": "Giorgio", "peso": 65}, {"nome": "Anna", "peso": 83}, {"nome": "Davide", "peso": 90}, {"nome": "Francesca", "peso": 68}, {"nome": "Stefano", "peso": 77},
+  {"nome": "Luca", "peso": 55}, {"nome": "Chiara", "peso": 72}, {"nome": "Matteo", "peso": 61}, {"nome": "Giulia", "peso": 83}, {"nome": "Pietro", "peso": 54},
+  {"nome": "Alessandro", "peso": 65}, {"nome": "Sara", "peso": 77}, {"nome": "Marta", "peso": 69}, {"nome": "Marco", "peso": 90}, {"nome": "Elena", "peso": 72},
+  {"nome": "Giorgio", "peso": 58}, {"nome": "Anna", "peso": 88}, {"nome": "Davide", "peso": 54}, {"nome": "Francesca", "peso": 79}, {"nome": "Stefano", "peso": 61},
+  {"nome": "Luca", "peso": 77}, {"nome": "Chiara", "peso": 65}, {"nome": "Matteo", "peso": 83}, {"nome": "Giulia", "peso": 72}, {"nome": "Pietro", "peso": 68},
+  {"nome": "Alessandro", "peso": 55}, {"nome": "Sara", "peso": 90}, {"nome": "Marta", "peso": 77}, {"nome": "Marco", "peso": 61}, {"nome": "Elena", "peso": 83},
+  {"nome": "Giorgio", "peso": 54}, {"nome": "Anna", "peso": 72}, {"nome": "Davide", "peso": 65}, {"nome": "Francesca", "peso": 88}, {"nome": "Stefano", "peso": 69},
+  {"nome": "Luca", "peso": 61}, {"nome": "Chiara", "peso": 79}, {"nome": "Matteo", "peso": 58}, {"nome": "Giulia", "peso": 65}, {"nome": "Pietro", "peso": 90},
+  {"nome": "Alessandro", "peso": 72}, {"nome": "Sara", "peso": 83}, {"nome": "Marta", "peso": 55}, {"nome": "Marco", "peso": 68}, {"nome": "Elena", "peso": 77},
+  {"nome": "Giorgio", "peso": 90}, {"nome": "Anna", "peso": 54}, {"nome": "Davide", "peso": 72}, {"nome": "Francesca", "peso": 61}, {"nome": "Stefano", "peso": 83}
+]
